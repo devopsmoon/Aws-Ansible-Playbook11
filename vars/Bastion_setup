@@ -1,0 +1,3 @@
+bastion_ami: ami-04db49c0fb2215364
+region: ap-south-1
+MYIP: 122.169.133.156/32
